@@ -1,7 +1,7 @@
 
 
 
-# **Day One Project: Band Name Generator**
+# **Day One of 100 days of Python Project: Band Name Generator**
 
 ## **Project Description**
 The **Band Name Generator** is a fun and interactive Python program that helps users come up with a creative band name. The program asks users two simple questions about their personal experiences and combines their answers to generate a unique band name.
